@@ -1,4 +1,4 @@
-# **<u>Awesome Neurodiversity, the 2nd</u>**
+# **<u><p align=center>Awesome Neurodiversity, the 2nd</p align=center></u>**
 
 ##### *Not to be confused with the first [Awesome Neurodiversity](https://github.com/orgs/awesome-neurodiversity/repositories) to the punch.  If you're interested in their stuff, please see their repositories [Awesome Neurodiversity](https://github.com/awesome-neurodiversity/awesome-neurodiversity) and [Neurodiversity x Mental Health Hub](https://github.com/awesome-neurodiversity/neurodiversity-x-mental-health).
 
@@ -58,13 +58,13 @@
   - [angelsflyinhell/2x:  Text parsing tool for neurodivergent people. Allows you to read twice  as fast and much more efficiently. (github.com)](https://github.com/angelsflyinhell/2x)
 
 
-## Wikis
+# Wikis
 
 - [Neurodiversity Wiki - Neurodiversity is a word that refers to the ways brains differ. These differences are grouped into conditions. This website helps you understand some common ones.](https://www.neurodiversity.wiki/)
 - [Neurodiversity Wiki | Fandom](https://neurodiversity.fandom.com/wiki/Neurodiversity_Wiki)
 
 
-## Articles
+# Articles
 
 - [Neurodiversity as a Competitive Advantage (nice long article) - Why you should embrace it in your workforce by Robert D. Austin and Gary P. Pisano](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage)
 - [Hearing the light: how to support employees with autism](https://www.hrmonline.com.au/neurodiversity/support-employees-with-autism/)
@@ -76,7 +76,7 @@
 - [Giant list of articles under this one: "Neurodiversity + Disability X Mental Health - My hub for everything about neurodiversity + disability, mental health and its intersections. If you wrote or found articles related to the topics this reading list covers, shoot me over my socials linked in my profile's about page. Part of the #AwesomeNeurodiversity project."](https://ajhalili2006.medium.com/list/neurodiversity-x-mental-health-0668a9b091e5)
 
 
-## Videos
+# Videos
 
 - [Large Neurodiversity Playlist: "Neurodiversity x Mental Health Hub by Andrei Jiroh Halili and 1 other (227 videos - Last updated on Feb 18, 2024"](https://www.youtube.com/playlist?list=PLGqidsjkmgSIXkeghibkLY6d2977P8aMH)
 - [Steve Silberman and John Marble - Autism: A Vision for a More Equitable Future (Neurodiversity at Square)](https://www.youtube.com/watch?v=dGkb7bGwEWU)
@@ -85,7 +85,7 @@
 - [K. Lisa Yang and Hock E. Tan Institute on Employment and Disability - HPE 02 Integrating Autism In The Workplace](https://www.youtube.com/watch?v=-R7tNFNvEUw)
 
 
-## Books (definitely not all-inclusive)
+# Books (definitely not all-inclusive)
 
 - [Overcoming Anxiety and Depression on the Autism Spectrum: A Self-help Guide Using CBT | Paperback – Illustrated, February 21, 2015](https://www.amazon.com/Overcoming-Anxiety-Depression-Autism-Spectrum/dp/1849059276)
 - [Accessing the Healing Power of the Vagus Nerve: Self-Help Exercises for Anxiety, Depression, Trauma, and Autism | Paperback – Illustrated, December 5, 2017](https://www.amazon.com/Accessing-Healing-Power-Vagus-Nerve/dp/1623170249)
@@ -94,7 +94,7 @@
   - [Video: Our Passion is Neurodiversity](https://vimeo.com/302261468)
 
 
-## Advocacy, the workplace, and human resources
+# Advocacy, the workplace, and human resources
 
 - [Creative Differences Handbook - A handbook for embracing neurodiversity
   in the creative industries.  By Universal Music.](https://umusic.co.uk/Creative-Differences-Handbook.pdf)
@@ -143,7 +143,7 @@
   - [AskEARN | Neurodiversity @ Work Employer Roundtable](https://askearn.org/page/neurodiversity-work-employer-roundtable)
 
 
-## Neurodiverse employee / employer matching / arbitrage / networking
+# Neurodiverse employee / employer matching / arbitrage / networking
 
 - [DXC Dandelion Program | An award-winning program connecting neurodiverse people with meaningful employment, and helping workplaces fill IT skills gaps.](https://dxc.com/au/en/about-us/social-impact-practice/dxc-dandelion-program)
 - [Disability Employment | Zavikon](https://www.zavikon.net/)
@@ -158,7 +158,7 @@
 - ["Genius Within," a UK company - "Passionate about Neurodiversity" - Working towards a future where all neurodivergent talents are celebrated and all organizations work systemically to maximise our potential and work to our strengths.](https://geniuswithin.org/)
 
 
-## Neurodiversity and Education / University / Research
+# Neurodiversity and Education / University / Research
 
 - Neurodiversity Network (Education links)
   - [Neurodiverse Universities & Initiatives](https://www.neurodiversitynetwork.net/neurodiverse-universities-initiatives)

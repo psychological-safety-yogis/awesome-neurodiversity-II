@@ -1,6 +1,6 @@
 # **<u>Awesome Neurodiversity, the 2nd</u>**
 
-
+*This list was made with significant help from Typora, which has fun [themes](https://theme.typora.io/), if you didn't know.
 
 #### Understanding: Neurodiversity Explained
 

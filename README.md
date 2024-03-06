@@ -239,7 +239,7 @@
 
 ---
 
-## "Actually Autistic Developers" - One person's list of resources (not viewed for accuracy / appropriateness)
+# "Actually Autistic Developers" - One person's list of resources (not viewed for accuracy / appropriateness)
 
 ##### \\\ [readme file from "Actually Autistic Developers" (basically a Github Awesome list)](https://github.com/Actually-Autistic-Developers/neurodiversity-resources) // 
 
@@ -370,11 +370,11 @@
   + [I’m high and this is Autism](https://www.facebook.com/groups/1004076026733577/) `Private group  · 1.7K members`
   + [NOT AS BRAVE AS AUTISM WARRIOR MOOOOMS](https://www.facebook.com/groups/368619990352952/) `Private group  · 8.5K members`"
 
-#### \\\ *end* [Actually Autistic Developers (Github)](https://github.com/Actually-Autistic-Developers/neurodiversity-resources) //
+## \\\ *end* [Actually Autistic Developers (Github)](https://github.com/Actually-Autistic-Developers/neurodiversity-resources) //
 
 ---
 
-#### O'Reilly.com list of results for search of "Neurodiversity."  O'Reilly is free for military / retired / dependents on Military OneSource / MWR Digital Libraries.
+## O'Reilly.com list of results for search of "Neurodiversity."  O'Reilly is free for military / retired / dependents on Military OneSource / MWR Digital Libraries.
 
 ## "123 Search results for **neurodiversity**"
 

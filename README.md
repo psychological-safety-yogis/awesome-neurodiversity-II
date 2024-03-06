@@ -17,7 +17,7 @@
 - Neurodiversity Network
   - [The intent of this website is to provide various resources for employers and universities who want to advocate for neurodivergent individuals seeking meaningful employment or post-secondary education.](https://www.neurodiversitynetwork.net/about)
   - [Neurodivergence at a Glance – Imagine | Johns Hopkins University (jhu.edu)](https://imagine.jhu.edu/blog/2022/10/05/neurodivergence-at-a-glance/)
-- [22 Statistics About Neurodiversity and Employment That You May Not Know \[Factsheet] - Neurodiversity  Media](https://www.neurodiversitymedia.com/resource-library/22-statistics-about-neurodiversity-and-employment-that-you-may-not-know-factsheet)
+- [22 Statistics About Neurodiversity and Employment That You May Not Know (Factsheet) - Neurodiversity  Media](https://www.neurodiversitymedia.com/resource-library/22-statistics-about-neurodiversity-and-employment-that-you-may-not-know-factsheet)
 - [Neurodivergent: What It Is, Symptoms & Types (clevelandclinic.org)](https://my.clevelandclinic.org/health/symptoms/23154-neurodivergent)
 - [Full article: Neurodiversity studies: mapping out possibilities of a new critical paradigm (tandfonline.com)](https://www.tandfonline.com/doi/full/10.1080/09687599.2021.1919503)
 - [Website educating the public about neurodiversity (github.com/alvarlagerlof/neurodiversity)](https://github.com/alvarlagerlof/neurodiversity)
@@ -367,6 +367,10 @@
   🤡
 
   + [It's 2021 and autism is still being pathologized](https://www.facebook.com/groups/autismisnotadisease/) `Private group  · 448 members`
+  + [I’m high and this is Autism](https://www.facebook.com/groups/1004076026733577/) `Private group  · 1.7K members`
+  + [NOT AS BRAVE AS AUTISM WARRIOR MOOOOMS](https://www.facebook.com/groups/368619990352952/) `Private group  · 8.5K members`"
+
+#### \\\ *end* [Actually Autistic Developers (Github)](https://github.com/Actually-Autistic-Developers/neurodiversity-resources) //
 
 ---
 
@@ -2097,12 +2101,3 @@ Write the
 With [Nicole Sanchez](https://learning.oreilly.com/search?q=author:"Nicole Sanchez")
 
 There are currently no scheduled events for this series.
-
-
----
-
-  + [I’m high and this is Autism](https://www.facebook.com/groups/1004076026733577/) `Private group  · 1.7K members`
-  + [NOT AS BRAVE AS AUTISM WARRIOR MOOOOMS](https://www.facebook.com/groups/368619990352952/) `Private group  · 8.5K members`"
-
-#### \\\ *end* [Actually Autistic Developers (Github)](https://github.com/Actually-Autistic-Developers/neurodiversity-resources) //
-

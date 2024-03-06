@@ -1,4 +1,4 @@
-# **<u><p align=center>Awesome Neurodiversity, the 2nd</p align=center></u>**
+# **<u><p align=center>Awesome Neurodiversity, the 2nd</u>**
 
 ##### *Not to be confused with the first [Awesome Neurodiversity](https://github.com/orgs/awesome-neurodiversity/repositories) to the punch.  If you're interested in their stuff, please see their repositories [Awesome Neurodiversity](https://github.com/awesome-neurodiversity/awesome-neurodiversity) and [Neurodiversity x Mental Health Hub](https://github.com/awesome-neurodiversity/neurodiversity-x-mental-health).
 

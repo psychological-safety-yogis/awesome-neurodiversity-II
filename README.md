@@ -7,16 +7,15 @@
 # Understanding: Neurodiversity Explained
 
 - [Neurodiversity: A Brief History - Neurodiversity @ Caltech](https://neurodiversity.caltech.edu/resources/neurodiversity-a-brief-history)
-- Very Well Mind .com
+- ### Very Well Mind .com
   - [Neurodiversity and What It Means to Be Neurodiverse (verywellmind.com)](https://www.verywellmind.com/what-is-neurodiversity-5193463)
   - [verywellmind.com - Symptoms of Attention-Deficit Hyperactivity Disorder (ADHD)](https://www.verywellmind.com/adhd-symptoms-4157281)
   - [The Link Between Depression and Creativity](https://www.verywellmind.com/the-link-between-depression-and-creativity-5094193)
-- "Stop ABA, Support Autistics"
+- ### "Stop ABA, Support Autistics"
   - [What is Applied Behavior Analysis, and Why is it so Terrible?](https://stopabasupportautistics.home.blog/2019/07/23/what-is-applied-behavior-analysis-and-why-is-it-so-terrible/)
   - ["Great Big" Compilation of English language articles about the evils of "Applied Behavior Analysis"](https://stopabasupportautistics.home.blog/2019/08/11/the-great-big-aba-opposition-resource-list/)
   - [Self Diagnosis FAQ](https://stopabasupportautistics.home.blog/2019/08/11/self-diagnosis-faq/)
-
-- Neurodiversity Network
+- ### Neurodiversity Network
   - [The intent of this website is to provide various resources for employers and universities who want to advocate for neurodivergent individuals seeking meaningful employment or post-secondary education.](https://www.neurodiversitynetwork.net/about)
   - [Neurodivergence at a Glance – Imagine | Johns Hopkins University (jhu.edu)](https://imagine.jhu.edu/blog/2022/10/05/neurodivergence-at-a-glance/)
 - [22 Statistics About Neurodiversity and Employment That You May Not Know (Factsheet) - Neurodiversity  Media](https://www.neurodiversitymedia.com/resource-library/22-statistics-about-neurodiversity-and-employment-that-you-may-not-know-factsheet)
@@ -47,12 +46,12 @@
 - [Technology & Accessibility](https://www.neurodiversitynetwork.net/technology-accessibility)
 - [AskEARN | Including Neurodivergent Workers: Workspace, Work Schedules, and Other Accommodations](https://askearn.org/page/neurodiversity-accommodations)
 - [Colour vision deficiency (colour blindness)](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/colour-blindness)
-- Job Accountability Network (JAN)
+- ### Job Accountability Network (JAN)
   - ["What is Neurodiversity?" - Accommodation and Compliance: Neurodiversity](https://askjan.org/disabilities/Neurodiversity.cfm?csSearch=6229696_1)
   - [Attention Deficit/Hyperactivity Disorder (ADHD)](https://askjan.org/disabilities/Attention-Deficit-Hyperactivity-Disorder-AD-HD.cfm)
 - [Hearing the light: how to support employees with autism - HRM online](https://www.hrmonline.com.au/neurodiversity/support-employees-with-autism/)
 - [Tips for Making your GitHub Profile Page Accessible · community · Discussion #64778](https://github.com/orgs/community/discussions/64778)
-- Readability
+- ### Readability
   - [github.com/koffiebaard/bionic-reader-chrome](https://github.com/koffiebaard/bionic-reader-chrome)
   - [BR for You. (bionic-reading.com)](https://bionic-reading.com/)
   - [angelsflyinhell/2x:  Text parsing tool for neurodivergent people. Allows you to read twice  as fast and much more efficiently. (github.com)](https://github.com/angelsflyinhell/2x)
@@ -90,7 +89,7 @@
 - [Overcoming Anxiety and Depression on the Autism Spectrum: A Self-help Guide Using CBT | Paperback – Illustrated, February 21, 2015](https://www.amazon.com/Overcoming-Anxiety-Depression-Autism-Spectrum/dp/1849059276)
 - [Accessing the Healing Power of the Vagus Nerve: Self-Help Exercises for Anxiety, Depression, Trauma, and Autism | Paperback – Illustrated, December 5, 2017](https://www.amazon.com/Accessing-Healing-Power-Vagus-Nerve/dp/1623170249)
 
-- Genius Within (UK)
+- ### Genius Within (UK)
   - [Video: Our Passion is Neurodiversity](https://vimeo.com/302261468)
 
 
@@ -98,12 +97,12 @@
 
 - [Creative Differences Handbook - A handbook for embracing neurodiversity
   in the creative industries.  By Universal Music.](https://umusic.co.uk/Creative-Differences-Handbook.pdf)
-- [Neurodiversity Resources | The GitLab Handbook](https://handbook.gitlab.com/handbook/company/culture/inclusion/neurodiversity-resources/)
+- ### [Neurodiversity Resources | The GitLab Handbook](https://handbook.gitlab.com/handbook/company/culture/inclusion/neurodiversity-resources/)
   - [Neurodiversity Resources, alternate link | The GitLab Handbook (open-energy-transition.github.io)](https://open-energy-transition.github.io/handbook/handbook/company/culture/inclusion/neurodiversity-resources/)
 - [Understanding and supporting neurodivergent workers: CCOHS Corner, June 15, 2023, By Canadian Centre for Occupational Health and Safety](https://www.ohscanada.com/features/understanding-and-supporting-neurodivergent-workers-ccohs-corner/)
 - [Neuro-Inclusive In The Workplace: A Guide for HR](https://everymindatwork.com/wp-content/uploads/2021/11/Neurodiversity-Guide.pdf)
 - [The Autism Toolbox | The Autism Toolbox is a free online resource developed to support the inclusion of autistic learners in Scottish Early Learning and Childcare settings, Primary and Secondary schools](https://www.autismtoolbox.co.uk/)
-- [AUTISM @ WORK PLAYBOOK](https://disabilityin.org/resource/autism-work-playbook/)
+- ### [AUTISM @ WORK PLAYBOOK](https://disabilityin.org/resource/autism-work-playbook/)
   - [Autism @ Work Playbook direct link to PDF](https://disabilityin-bulk.s3.amazonaws.com/Playbook2021_a11y+(1).pdf)
 - [Simplified and helpful article adding to the Universal Music Neurodiversity Handbook | Kate Neilson](https://www.hrmonline.com.au/how-tos/neurodiversity-handbook-prototype-workplaces/)
 - [7 Need-To-Know Tips for Working with Neurodivergent Employees](https://neurodiversitymatters.com/need-to-know-tips-for-working-with-neurodivergent-employees/)
@@ -122,13 +121,13 @@
 - [7 principles for engaging with neurodivergent people | The Drum](https://www.thedrum.com/opinion/2021/12/10/7-principles-engaging-with-neurodivergent-people)
 - https://handbook.gitlab.com/pdfs/12170_GitLab_DIB_Presentation_07.25.23.pdf
 - [GitLab Diversity, Inclusion, and Belonging 2023 | The GitLab Handbook](https://handbook.gitlab.com/reports/people-group/2023/diversity-inclusion-belonging/)
-- Neurodiversity Network (their work-related pages)
-  - [Neurodiverse Employers & Initiatives](https://www.neurodiversitynetwork.net/neurodiverseemployers)
+- ### Neurodiversity Network (their work-related pages)
+  - #### [Neurodiverse Employers & Initiatives](https://www.neurodiversitynetwork.net/neurodiverseemployers)
     - [EMPLOYER PROGRAMS & INITIATIVES](https://www.neurodiversitynetwork.net/neurodiverseemployers#employerinitiatives)
     - [NEURODIVERSITY @ WORK EMPLOYERS](https://www.neurodiversitynetwork.net/neurodiverseemployers#neurodiversity@work)
   - [Identify & Enhance Skills](https://www.neurodiversitynetwork.net/neurodivergent-skills)
   - [Job Search & Labor Market](https://www.neurodiversitynetwork.net/job-search-labor-market)
-- EARN - Employer Assistance and Resource Network on Disability and Inclusion
+- ### EARN - Employer Assistance and Resource Network on Disability and Inclusion
   - [AskEARN | Publication - Neurodiversity Inclusion: Checklist for Organizational Success](https://askearn.org/publication/neurodiversity-inclusion-checklist)
   - [AskEARN | Including Neurodivergent Workers: Workspace, Work Schedules, and Other Accommodations](https://askearn.org/page/neurodiversity-accommodations)
   - [AskEARN | Management, Peer Training and Mentoring](https://askearn.org/page/management-peer-training-and-mentoring)
@@ -160,7 +159,7 @@
 
 # Neurodiversity and Education / University / Research
 
-- Neurodiversity Network (Education links)
+- ### Neurodiversity Network (Education links)
   - [Neurodiverse Universities & Initiatives](https://www.neurodiversitynetwork.net/neurodiverse-universities-initiatives)
   - [Creating a Neurodiverse Environment](https://www.neurodiversitynetwork.net/creating-a-neurodiverse-environment)
 - [Stanford Neurodiversity Project | Stanford Neurodiversity Project | Stanford Medicine](https://med.stanford.edu/neurodiversity.html)
@@ -174,12 +173,12 @@
 - [Neurodiversity in the Classroom | Teaching & Learning Transformation Center (umd.edu)](https://tltc.umd.edu/neurodiversity)
  
 
-## Other Github repositories and stuff
+# Other Github repositories and stuff
 
 - [neurodiversity · GitHub Topics (many related repositories under this Github Topic)](https://github.com/topics/neurodiversity) 
 
 
-## Other social (not reviewed for appropriateness, viewer discretion advised)
+# Other social (not reviewed for appropriateness, viewer discretion advised)
 
 - [Neurodivergent Rebel (@neurodivergentrebel) • Instagram photos and videos](https://www.instagram.com/neurodivergentrebel/)
 - https://www.reddit.com/r/neurodiversity/
@@ -323,7 +322,7 @@
 ---
 
 
-## O'Reilly.com list of results for search of "Neurodiversity."  O'Reilly is free for military / retired / dependents on Military OneSource / MWR Digital Libraries.
+# O'Reilly.com list of results for search of "Neurodiversity."  O'Reilly is free for military / retired / dependents on Military OneSource / MWR Digital Libraries.
 
 ## "123 Search results for **neurodiversity**"
 

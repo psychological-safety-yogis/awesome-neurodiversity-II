@@ -1,6 +1,5 @@
 # **<u>Awesome Neurodiversity, the 2nd</u>**
-#### *Not to be confused with the first [Awesome Neurodiversity](https://github.com/orgs/awesome-neurodiversity/repositories) to the punch. 
-#### - If you're interested in their stuff see their repositories [Awesome Neurodiversity](https://github.com/awesome-neurodiversity/awesome-neurodiversity) and [Neurodiversity x Mental Health Hub](https://github.com/awesome-neurodiversity/neurodiversity-x-mental-health).
+#### *Not to be confused with the first [Awesome Neurodiversity](https://github.com/orgs/awesome-neurodiversity/repositories) to the punch.  If you're interested in their stuff see their repositories [Awesome Neurodiversity](https://github.com/awesome-neurodiversity/awesome-neurodiversity) and [Neurodiversity x Mental Health Hub](https://github.com/awesome-neurodiversity/neurodiversity-x-mental-health).
 
 *This list was made with significant help from Typora, which has fun [themes](https://theme.typora.io/), if you didn't know.
 

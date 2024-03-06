@@ -25,39 +25,24 @@
 - [Website educating the public about neurodiversity (github.com/alvarlagerlof/neurodiversity)](https://github.com/alvarlagerlof/neurodiversity)
 
 
-
-#### Taking care of oneself with Neurodiversity | "improvise, adapt, overcome"
+# Taking care of oneself with Neurodiversity | "improvise, adapt, overcome"
 
 - [Neurodivergent Self Care](https://www.neurodiversitynetwork.net/neurodivergent-self-care)
-
 - [Neurodivergent Therapist Directory](https://ndtherapists.com/)
-
 - [Project LETS](https://projectlets.org/mission). "Project LETS is a national grassroots organization and movement led by  and for folks with lived experience of mental illness/madness,  Disability, trauma, & neurodivergence. We specialize in building  just, responsive, and transformative peer support collectives and  community mental health care structures that do not depend on  state-sanctioned systems that trap our folks in the  medical/prison-industrial complex. We work for and with multiply  marginalized folks in our communities to provide access, political  education, & material resources that are needed to survive and  thrive. We believe in a world without systems of oppression, where  non-carceral responses to crises are the norm!"
-
-- [NeuroQueer.org](https://www.neuroqueer.org/).  "***Are you looking for ADHD or Autism support?***  *This isn't another app. It's not AI. It's not off the shelf advice to "Get a planner" or a Tiktok that gets forgotten.*   We're Serving Realness.  This is an online community for LGBTQ adults with ADHD and/or ASD to get support from peers and coaches. 
-
-  Real people helping each other with real problems: Managing focus, Rejection Sensitive Dysphoria, Time Awareness, Organization, Task Initiation,  Working Memory, Overwhelm, Planning, Inattention, Impulsivity, Emotional Regulation, Routines, Rigidity, Stress & Anxiety, Self-Care,  Relationships, Access to Diagnosis, Communication, and more."
-
+- [NeuroQueer.org](https://www.neuroqueer.org/).  "***Are you looking for ADHD or Autism support?***  *This isn't another app. It's not AI. It's not off the shelf advice to "Get a planner" or a Tiktok that gets forgotten.*   We're Serving Realness.  This is an online community for LGBTQ adults with ADHD and/or ASD to get support from peers and coaches. Real people helping each other with real problems: Managing focus, Rejection Sensitive Dysphoria, Time Awareness, Organization, Task Initiation,  Working Memory, Overwhelm, Planning, Inattention, Impulsivity, Emotional Regulation, Routines, Rigidity, Stress & Anxiety, Self-Care,  Relationships, Access to Diagnosis, Communication, and more."
 - [Mindful Tradition](https://www.mindfultradition.com/).  Mindful Traditions moves beyond the modern perception of yoga, which is  the idea that yoga is a physical practice that only occurs on the mat.  Instead, Mindful Traditions introduces participants to a practice of  building a conscious relationship with the ‘*self*’ through mindfulness, meditation, breathing exercises, and movement with full-length classes tailored to meet the needs of a *neurodiverse* individual or group.  
-
 - [Schizophrenia & Psychosis Action Alliance](https://sczaction.org/#).  We are  solving foundational problems that create barriers to treatment, support and survival for people living with schizophrenia and those who care  for them.
-
 - [6 Self-Care Tips for People on the Autism Spectrum - The Mighty](https://themighty.com/topic/autism-spectrum-disorder/self-care-autism-spectrum/)
-
 - [Psychology Today - Find a Therapist Tool (highly customizable)](https://www.psychologytoday.com/us/therapists)
-
 - [BetterHelp](https://www.betterhelp.com/get-started/)
-
 - [Bespoke Autism & Neurodiversity Coaching & Training](https://www.autismandneurodiversitycoaching.co.uk/)
-
 - [A neurodivergent-friendly organisational toolkit designed to help  autistic people and people with ADHD with planning, time management and  executive  functions. (github.com/mmauthoor/neurodiverse-toolkit)](https://github.com/mmauthoor/neurodiverse-toolkit)
-
 - [Crafting an Accessible and Inclusive Resumé · community · Discussion #62531 (github.com)](https://github.com/orgs/community/discussions/62531)
-
 - [Interview Tips for Neurodivergent Job Seekers – Tulane University | Career Services](https://careerengagement.tulane.edu/resources/interview-tips-for-neurodivergent-job-seekers/)
 
 
-## Accessibility
+# Accessibility
 
 - [Technology & Accessibility](https://www.neurodiversitynetwork.net/technology-accessibility)
 - [AskEARN | Including Neurodivergent Workers: Workspace, Work Schedules, and Other Accommodations](https://askearn.org/page/neurodiversity-accommodations)
@@ -73,15 +58,13 @@
   - [angelsflyinhell/2x:  Text parsing tool for neurodivergent people. Allows you to read twice  as fast and much more efficiently. (github.com)](https://github.com/angelsflyinhell/2x)
 
 
-
-### Wikis
+## Wikis
 
 - [Neurodiversity Wiki - Neurodiversity is a word that refers to the ways brains differ. These differences are grouped into conditions. This website helps you understand some common ones.](https://www.neurodiversity.wiki/)
 - [Neurodiversity Wiki | Fandom](https://neurodiversity.fandom.com/wiki/Neurodiversity_Wiki)
 
 
-
-#### Articles
+## Articles
 
 - [Neurodiversity as a Competitive Advantage (nice long article) - Why you should embrace it in your workforce by Robert D. Austin and Gary P. Pisano](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage)
 - [Hearing the light: how to support employees with autism](https://www.hrmonline.com.au/neurodiversity/support-employees-with-autism/)
@@ -93,8 +76,7 @@
 - [Giant list of articles under this one: "Neurodiversity + Disability X Mental Health - My hub for everything about neurodiversity + disability, mental health and its intersections. If you wrote or found articles related to the topics this reading list covers, shoot me over my socials linked in my profile's about page. Part of the #AwesomeNeurodiversity project."](https://ajhalili2006.medium.com/list/neurodiversity-x-mental-health-0668a9b091e5)
 
 
-
-#### Videos
+## Videos
 
 - [Large Neurodiversity Playlist: "Neurodiversity x Mental Health Hub by Andrei Jiroh Halili and 1 other (227 videos - Last updated on Feb 18, 2024"](https://www.youtube.com/playlist?list=PLGqidsjkmgSIXkeghibkLY6d2977P8aMH)
 - [Steve Silberman and John Marble - Autism: A Vision for a More Equitable Future (Neurodiversity at Square)](https://www.youtube.com/watch?v=dGkb7bGwEWU)
@@ -103,7 +85,7 @@
 - [K. Lisa Yang and Hock E. Tan Institute on Employment and Disability - HPE 02 Integrating Autism In The Workplace](https://www.youtube.com/watch?v=-R7tNFNvEUw)
 
 
-### Books (definitely not all-inclusive)
+## Books (definitely not all-inclusive)
 
 - [Overcoming Anxiety and Depression on the Autism Spectrum: A Self-help Guide Using CBT | Paperback – Illustrated, February 21, 2015](https://www.amazon.com/Overcoming-Anxiety-Depression-Autism-Spectrum/dp/1849059276)
 - [Accessing the Healing Power of the Vagus Nerve: Self-Help Exercises for Anxiety, Depression, Trauma, and Autism | Paperback – Illustrated, December 5, 2017](https://www.amazon.com/Accessing-Healing-Power-Vagus-Nerve/dp/1623170249)
@@ -112,7 +94,7 @@
   - [Video: Our Passion is Neurodiversity](https://vimeo.com/302261468)
 
 
-### Advocacy, the workplace, and human resources
+## Advocacy, the workplace, and human resources
 
 - [Creative Differences Handbook - A handbook for embracing neurodiversity
   in the creative industries.  By Universal Music.](https://umusic.co.uk/Creative-Differences-Handbook.pdf)
@@ -125,47 +107,28 @@
   - [Autism @ Work Playbook direct link to PDF](https://disabilityin-bulk.s3.amazonaws.com/Playbook2021_a11y+(1).pdf)
 - [Simplified and helpful article adding to the Universal Music Neurodiversity Handbook | Kate Neilson](https://www.hrmonline.com.au/how-tos/neurodiversity-handbook-prototype-workplaces/)
 - [7 Need-To-Know Tips for Working with Neurodivergent Employees](https://neurodiversitymatters.com/need-to-know-tips-for-working-with-neurodivergent-employees/)
-
 - [Neurodiversity at Work Resources (everymindatwork.com)](https://everymindatwork.com/neurodiversity-at-work-resources/)
-
 - [Organisational checklist for neurodiversity | Prospect](https://prospect.org.uk/article/organisational-checklist-for-neurodiversity/)
-
 - [Neurodiversity at work: a biopsychosocial model and the impact on working adults - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7732033/)
-
 - [awesome-neurodiversity/neurodiversity-x-mental-health: @ajhalili2006's personal collection of everything neurodiversity, mental health and its intersections.  Also known as the project's origin story. (github.com)](https://github.com/awesome-neurodiversity/neurodiversity-x-mental-health)
-
 - [Home - Neurodiversity in Business](https://neurodiversityinbusiness.org/) 
-
 - [Neurodiversity-in-Business/neurodiversity-in-business.github.io: Neurodiversity In Buisness Website](https://github.com/Neurodiversity-in-Business/neurodiversity-in-business.github.io)
-
 - [Neurodiversity at work: a biopsychosocial model and the impact on working adults - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7732033/)
-
 - [Designing Workplaces for Neurodiverse Workers | Center for Occupational and Environmental Health (berkeley.edu)](https://www.coeh.berkeley.edu/23dwnw1213)
-
 - [Inclusive strategies for welcoming neurodiverse team members - The Whole U (uw.edu)](https://thewholeu.uw.edu/2022/11/23/welcoming-neurodiverse-colleagues-to-the-workplace/)
-
 - [How to Embrace Neurodiversity at Work: HR Guide](https://blog.ongig.com/diversity-and-inclusion/neurodiversity-at-work/)
-
 - [Neurodiversity Awareness and Training - NEURODIVERSE-HR](https://neurodiverse-hr.co.uk/)
-
 - [Neurodiversity Resources For Employers — Neurodiversity Hub](https://www.neurodiversityhub.org/resources-for-employers)
-
 - [7 principles for engaging with neurodivergent people | The Drum](https://www.thedrum.com/opinion/2021/12/10/7-principles-engaging-with-neurodivergent-people)
-
 - https://handbook.gitlab.com/pdfs/12170_GitLab_DIB_Presentation_07.25.23.pdf
-
 - [GitLab Diversity, Inclusion, and Belonging 2023 | The GitLab Handbook](https://handbook.gitlab.com/reports/people-group/2023/diversity-inclusion-belonging/)
-
 - Neurodiversity Network (their work-related pages)
-
   - [Neurodiverse Employers & Initiatives](https://www.neurodiversitynetwork.net/neurodiverseemployers)
     - [EMPLOYER PROGRAMS & INITIATIVES](https://www.neurodiversitynetwork.net/neurodiverseemployers#employerinitiatives)
     - [NEURODIVERSITY @ WORK EMPLOYERS](https://www.neurodiversitynetwork.net/neurodiverseemployers#neurodiversity@work)
   - [Identify & Enhance Skills](https://www.neurodiversitynetwork.net/neurodivergent-skills)
   - [Job Search & Labor Market](https://www.neurodiversitynetwork.net/job-search-labor-market)
-
 - EARN - Employer Assistance and Resource Network on Disability and Inclusion
-
   - [AskEARN | Publication - Neurodiversity Inclusion: Checklist for Organizational Success](https://askearn.org/publication/neurodiversity-inclusion-checklist)
   - [AskEARN | Including Neurodivergent Workers: Workspace, Work Schedules, and Other Accommodations](https://askearn.org/page/neurodiversity-accommodations)
   - [AskEARN | Management, Peer Training and Mentoring](https://askearn.org/page/management-peer-training-and-mentoring)
@@ -180,8 +143,7 @@
   - [AskEARN | Neurodiversity @ Work Employer Roundtable](https://askearn.org/page/neurodiversity-work-employer-roundtable)
 
 
-
-#### Neurodiverse employee / employer matching / arbitrage / networking
+## Neurodiverse employee / employer matching / arbitrage / networking
 
 - [DXC Dandelion Program | An award-winning program connecting neurodiverse people with meaningful employment, and helping workplaces fill IT skills gaps.](https://dxc.com/au/en/about-us/social-impact-practice/dxc-dandelion-program)
 - [Disability Employment | Zavikon](https://www.zavikon.net/)
@@ -196,7 +158,7 @@
 - ["Genius Within," a UK company - "Passionate about Neurodiversity" - Working towards a future where all neurodivergent talents are celebrated and all organizations work systemically to maximise our potential and work to our strengths.](https://geniuswithin.org/)
 
 
-### Neurodiversity and Education / University / Research
+## Neurodiversity and Education / University / Research
 
 - Neurodiversity Network (Education links)
   - [Neurodiverse Universities & Initiatives](https://www.neurodiversitynetwork.net/neurodiverse-universities-initiatives)
@@ -212,12 +174,12 @@
 - [Neurodiversity in the Classroom | Teaching & Learning Transformation Center (umd.edu)](https://tltc.umd.edu/neurodiversity)
  
 
-### Other Github repositories and stuff
+## Other Github repositories and stuff
 
 - [neurodiversity · GitHub Topics (many related repositories under this Github Topic)](https://github.com/topics/neurodiversity) 
 
 
-### Other social (not reviewed for appropriateness, viewer discretion advised)
+## Other social (not reviewed for appropriateness, viewer discretion advised)
 
 - [Neurodivergent Rebel (@neurodivergentrebel) • Instagram photos and videos](https://www.instagram.com/neurodivergentrebel/)
 - https://www.reddit.com/r/neurodiversity/

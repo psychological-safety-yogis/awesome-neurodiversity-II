@@ -1,9 +1,10 @@
 # **<u>Awesome Neurodiversity, the 2nd</u>**
-#### *Not to be confused with the first [Awesome Neurodiversity](https://github.com/orgs/awesome-neurodiversity/repositories) to the punch.  If you're interested in their stuff, please see their repositories [Awesome Neurodiversity](https://github.com/awesome-neurodiversity/awesome-neurodiversity) and [Neurodiversity x Mental Health Hub](https://github.com/awesome-neurodiversity/neurodiversity-x-mental-health).
 
-*This list was made with significant help from [Typora](https://typora.io/), without which this project would have taken a prohibitively LONG time to build.  Typora also has fun [themes](https://theme.typora.io/).  If you don't know, now you know, typist.  Vim is fantastic too, but not for .md files.
+##### *Not to be confused with the first [Awesome Neurodiversity](https://github.com/orgs/awesome-neurodiversity/repositories) to the punch.  If you're interested in their stuff, please see their repositories [Awesome Neurodiversity](https://github.com/awesome-neurodiversity/awesome-neurodiversity) and [Neurodiversity x Mental Health Hub](https://github.com/awesome-neurodiversity/neurodiversity-x-mental-health).
 
-#### Understanding: Neurodiversity Explained
+**This list was made with significant help from [Typora](https://typora.io/), without which this project would have taken a prohibitively LONG time to build.  Typora also has fun [themes](https://theme.typora.io/).  If you don't know, now you know, typist.  Vim is fantastic too, but not for .md files.
+
+# Understanding: Neurodiversity Explained
 
 - [Neurodiversity: A Brief History - Neurodiversity @ Caltech](https://neurodiversity.caltech.edu/resources/neurodiversity-a-brief-history)
 - Very Well Mind .com
@@ -56,8 +57,7 @@
 - [Interview Tips for Neurodivergent Job Seekers – Tulane University | Career Services](https://careerengagement.tulane.edu/resources/interview-tips-for-neurodivergent-job-seekers/)
 
 
-
-#### Accessibility
+## Accessibility
 
 - [Technology & Accessibility](https://www.neurodiversitynetwork.net/technology-accessibility)
 - [AskEARN | Including Neurodivergent Workers: Workspace, Work Schedules, and Other Accommodations](https://askearn.org/page/neurodiversity-accommodations)
@@ -74,7 +74,7 @@
 
 
 
-#### Wikis
+### Wikis
 
 - [Neurodiversity Wiki - Neurodiversity is a word that refers to the ways brains differ. These differences are grouped into conditions. This website helps you understand some common ones.](https://www.neurodiversity.wiki/)
 - [Neurodiversity Wiki | Fandom](https://neurodiversity.fandom.com/wiki/Neurodiversity_Wiki)
@@ -103,8 +103,7 @@
 - [K. Lisa Yang and Hock E. Tan Institute on Employment and Disability - HPE 02 Integrating Autism In The Workplace](https://www.youtube.com/watch?v=-R7tNFNvEUw)
 
 
-
-#### Books (definitely not all-inclusive)
+### Books (definitely not all-inclusive)
 
 - [Overcoming Anxiety and Depression on the Autism Spectrum: A Self-help Guide Using CBT | Paperback – Illustrated, February 21, 2015](https://www.amazon.com/Overcoming-Anxiety-Depression-Autism-Spectrum/dp/1849059276)
 - [Accessing the Healing Power of the Vagus Nerve: Self-Help Exercises for Anxiety, Depression, Trauma, and Autism | Paperback – Illustrated, December 5, 2017](https://www.amazon.com/Accessing-Healing-Power-Vagus-Nerve/dp/1623170249)
@@ -113,8 +112,7 @@
   - [Video: Our Passion is Neurodiversity](https://vimeo.com/302261468)
 
 
-
-#### Advocacy, the workplace, and human resources
+### Advocacy, the workplace, and human resources
 
 - [Creative Differences Handbook - A handbook for embracing neurodiversity
   in the creative industries.  By Universal Music.](https://umusic.co.uk/Creative-Differences-Handbook.pdf)
@@ -198,51 +196,37 @@
 - ["Genius Within," a UK company - "Passionate about Neurodiversity" - Working towards a future where all neurodivergent talents are celebrated and all organizations work systemically to maximise our potential and work to our strengths.](https://geniuswithin.org/)
 
 
-
-#### Neurodiversity and Education / University / Research
+### Neurodiversity and Education / University / Research
 
 - Neurodiversity Network (Education links)
-
   - [Neurodiverse Universities & Initiatives](https://www.neurodiversitynetwork.net/neurodiverse-universities-initiatives)
   - [Creating a Neurodiverse Environment](https://www.neurodiversitynetwork.net/creating-a-neurodiverse-environment)
-
 - [Stanford Neurodiversity Project | Stanford Neurodiversity Project | Stanford Medicine](https://med.stanford.edu/neurodiversity.html)
-
 - [(PDF) Defining neurodiversity for research and practice (researchgate.net)](https://www.researchgate.net/publication/341880806_Defining_neurodiversity_for_research_and_practice)
-
 - [Stanford Neurodiversity Summit 2023 | Stanford Neurodiversity Project | Stanford Medicine](https://med.stanford.edu/neurodiversity/SNS2023.html)
-
 - [UC Berkeley Neurodiversity Initiative | University Health Services](https://uhs.berkeley.edu/about-uhs/about/equity-inclusion-and-diversity/neurodiverse-care/uc-berkeley-neurodiversity)
-
 - [Neuroscience for Neurodiverse Learners | Center for Neurotechnology (uw.edu)](https://centerforneurotech.uw.edu/education-k-12/neuroscience-neurodiverse-learners)
-
 - [Neuroscience for Neurodiverse Learners provides students an opportunity to develop unique strengths,  even through a pandemic | Center for Neurotechnology (uw.edu)](https://centerforneurotech.uw.edu/feature-stories/neuroscience-neurodiverse-learners-provides-students-opportunity-develop-unique)
-
 - [Overview | DO-IT (washington.edu)](https://www.washington.edu/doit/programs/nnl)
-
 - [6 Strategies to Help Neurodiverse Students Fully Engage in K-12 Classrooms | Edutopia](https://www.edutopia.org/article/6-strategies-help-neurodiverse-students-fully-engage-class)
-
 - [Neurodiversity in the Classroom | Teaching & Learning Transformation Center (umd.edu)](https://tltc.umd.edu/neurodiversity)
+ 
 
-  
-
-#### Other Github
+### Other Github repositories and stuff
 
 - [neurodiversity · GitHub Topics (many related repositories under this Github Topic)](https://github.com/topics/neurodiversity) 
 
 
-
-#### Other social (not reviewed for appropriateness, viewer discretion advised)
+### Other social (not reviewed for appropriateness, viewer discretion advised)
 
 - [Neurodivergent Rebel (@neurodivergentrebel) • Instagram photos and videos](https://www.instagram.com/neurodivergentrebel/)
-
 - https://www.reddit.com/r/neurodiversity/
 
 ---
 
 # "Actually Autistic Developers" - One person's list of resources (not viewed for accuracy / appropriateness)
 
-##### \\\ [readme file from "Actually Autistic Developers" (basically a Github Awesome list)](https://github.com/Actually-Autistic-Developers/neurodiversity-resources) // 
+### \\\ [readme file from "Actually Autistic Developers" (basically a Github Awesome list)](https://github.com/Actually-Autistic-Developers/neurodiversity-resources) // 
 
 - ##### "neurodiversity-resources
 
@@ -371,9 +355,11 @@
   + [I’m high and this is Autism](https://www.facebook.com/groups/1004076026733577/) `Private group  · 1.7K members`
   + [NOT AS BRAVE AS AUTISM WARRIOR MOOOOMS](https://www.facebook.com/groups/368619990352952/) `Private group  · 8.5K members`"
 
-## \\\ *end* [Actually Autistic Developers (Github)](https://github.com/Actually-Autistic-Developers/neurodiversity-resources) //
+# \\\ *end* [Actually Autistic Developers (Github)](https://github.com/Actually-Autistic-Developers/neurodiversity-resources) //
+
 
 ---
+
 
 ## O'Reilly.com list of results for search of "Neurodiversity."  O'Reilly is free for military / retired / dependents on Military OneSource / MWR Digital Libraries.
 
